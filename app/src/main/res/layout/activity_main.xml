@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_yuan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="原声" />
+
+    <Button
+        android:id="@+id/btn_luoli"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="萝莉" />
+
+    <Button
+        android:id="@+id/btn_dashu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="大叔" />
+
+    <Button
+        android:id="@+id/btn_gaoguai"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="搞怪" />
+
+    <Button
+        android:id="@+id/btn_kongling"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="空灵" />
+
+    <Button
+        android:id="@+id/btn_jingsong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="惊悚" />
+</LinearLayout>
